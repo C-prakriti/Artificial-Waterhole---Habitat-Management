@@ -1,0 +1,4 @@
+"category","Day","Evening","Morning","Night"
+"Mega-herbivore",0,2,0,0
+"Predator",0,0,0,2
+"Prey",5,5,10,3
