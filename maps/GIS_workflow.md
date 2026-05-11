@@ -6,13 +6,10 @@ This GIS workflow was used to derive environmental variables influencing wildlif
 - Distance to nearest settlement
 - Distance to nearest permanent water source
 
-  '''
   # Software Used
   - ArcGIS
   - OpenStreetMap data
   - ESRI Sentinel-2 Land Cover Explorer
-
-  '''
 
   # Spatial Data Sources
   |Spatial Layer| Source |
@@ -21,8 +18,6 @@ This GIS workflow was used to derive environmental variables influencing wildlif
   |Settlement Area | OpenStreetMap |
   | Permanent water source | ESRI Land Cover Data |
   | Waterhole coordinates | GPS |
-
-  '''
 
   # GIS Processing Workflow
   ## Step 1: Imported the spatial layers
@@ -49,7 +44,7 @@ This GIS workflow was used to derive environmental variables influencing wildlif
   ## Step 5: Extracting Distance Values
   Distance values corresponding to each selected waterholes were extracted from the raster layers. The extracted values were exported as CSV format for statistical analysis
 
-  These variables were used in R to conduct statistical analysis to assess the influencing wildlife utilization of artificial waterholes.
+In this example, we used stored the spatial data in Sample_environmetal_data.csv. These variables were used in R to conduct statistical analysis to assess the influencing wildlife utilization of artificial waterholes.
 
     
   
