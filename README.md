@@ -93,7 +93,7 @@ artificial-waterhole-utilization/
 ├── data/               # Sample and processed datasets
 ├── maps/               # GIS layers and maps
 ├── scripts/            # R analysis scripts
-├── results/            # Graphs, tables, and outputs
+├── Output/            # Graphs, tables, and outputs
 ├── docs/               # Thesis documents and reports
 └── images/             # Camera trap and study area images
 ```
