@@ -94,8 +94,7 @@ artificial-waterhole-utilization/
 ├── maps/               # GIS layers and maps
 ├── scripts/            # R analysis scripts
 ├── Output/            # Graphs, tables, and outputs
-├── docs/               # Thesis documents and reports
-└── images/             # Camera trap and study area images
+└── docs/               # Thesis documents and reports           
 ```
 
 # Reproducibility
