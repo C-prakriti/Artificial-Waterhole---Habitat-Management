@@ -7,3 +7,4 @@ This folder contains charts and figures from the original data as well as the ex
 6. **Species visit in each waterhole** = Image of bargraph showing the species visit data for each waterhole
 7. **Temporal activity in prey, predator and megaherbivore** = Image of line chart comparing the temporal activeness among prey, predator and megaherbivore
 8. **Temporal acitivity species wise** = Image of stacked barchart showing the level of activeness of each species during each time period
+9. **GLM analysis result** = The result of file_table showing the analysis result for all depedent variables
